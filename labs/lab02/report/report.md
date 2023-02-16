@@ -89,9 +89,11 @@ header-includes:
 
 4. Настроил каталог курса
 
-![консоль](image/5.png){ #fig:005 width=90% }
+![консоль](image/4.png){ #fig:005 width=90% }
 
 5. Создал GPG ключ
+
+![гитхаб](image/5.png){ #fig:005 width=90% }
 
 
 # Выводы
