@@ -1,4 +1,4 @@
-SRC = presentation.md
+/afs/.dk.sci.pfu.edu.ru/home/a/a/aafedorov/work/study/2022-2023/Операционные системы/oc/labs/lab02/presentation/image/kulyabov.jpgSRC = presentation.md
 FILES += $(patsubst %.md, %.pdf, $(wildcard *.md))
 FILES += $(patsubst %.md, %.html, $(wildcard *.md))
 
